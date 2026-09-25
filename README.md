@@ -1,15 +1,15 @@
 <div align="center">
 
-# 👋 Hi, I'm **Roxana Orozco** 👩‍💻
+#  Hi, I'm **Roxana Orozco** 
 
-🎓 *Software Engineering Student* @ **University of Colima**  
-💡 Passionate about exploring **all tech fields** & lifelong learning  
-🌱 Constantly growing by mastering new languages & frameworks  
-🍏 Devoted to creating **health & well-being** focused impactful projects  
+ *Software Engineering Student* @ **University of Colima**  
+ Passionate about exploring **all tech fields** & lifelong learning  
+ Constantly growing by mastering new languages & frameworks  
+ Devoted to creating **health & well-being** focused impactful projects  
 
 ---
 
-### 🚀 My Tech Stack
+###  My Tech Stack
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -21,14 +21,14 @@
 
 ---
 
-### 🧠 Featured Project
+###  Featured Project
 
-#### 📌 [proyectoIntegrador_weblog](https://github.com/roxana7code/proyectoIntegrador_weblog)
+####  [proyectoIntegrador_weblog](https://github.com/roxana7code/proyectoIntegrador_weblog)
 
 > A **dynamic weblog-style website** devoted to **health & well-being**, with a laser focus on nutrition.  
 > A true reflection of my passion for developing meaningful, socially impactful technology solutions.  
 >
-> 🔥 *Tech used:* Java | PHP | MySQL
+>  *Tech used:* Java | PHP | MySQL
 
 <div>
   <img src="https://media.giphy.com/media/xTiTncqNHqOK8eQZ6A/giphy.gif" alt="Weblog GIF" width="400"/>
@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roxana7code&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="GitHub Stats" style="border-radius:15px; border: 3px solid #ff007f; padding: 10px;" />
@@ -48,7 +48,7 @@
 
 ---
 
-### 📬 Connect with Me
+###  Connect with Me
 
 <p>
   <a href="https://facebook.com/RoxanaOrzco" target="_blank">
@@ -66,7 +66,7 @@
 
 ---
 
-> ### 🚀 **"Keep learning. Keep growing."** 🌱
+> ###  **"Keep learning. Keep growing."** 
 
 </div>
 
